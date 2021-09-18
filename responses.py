@@ -5,13 +5,7 @@ def sample_responses(input_text):
         k = user_message + ' '
         hash = k[k.find('#') + 1:k.find(' ', k.find('#'))]
         if hash.lower() == 'help':
-            m = """Please use following commands to get the info:
-/syllabus
-/contacts
-/schedule
-/classlink
-/ebooks"""
-            return m
+            m=""
         else:
             m = '''Looks like you tried a wrong command!
 click /help to get started.'''

@@ -1,6 +1,6 @@
 
 
-header='''\-\-\-\-\-\-\- Contact Details \-\-\-\-\-\-
+header='''\-\-\-\-\-\-\- Contact Details \-\-\-\-\-\-\-
 \(Tap on the values to copy\)
 '''
 
@@ -86,4 +86,5 @@ Mobile: ```+917376748927```
 
 
 
-
+Dean="""
+no data right now"""
